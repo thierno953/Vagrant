@@ -18,13 +18,37 @@ cd get_started
 ``` shell
 vagrant init bento/ubuntu-22.04
 ```
-6. Run the vagrant up 
+6. Bring up the vagrant instance
 
 ``` shell
 vagrant up
 ```
-7. SSH into the VM
+7. Get Status of Local Vagrant Machine
+``` shell
+vagrant status
+```
 
+8. Get Status of Vagrant Machines on host
+``` shell
+vagrant global-status
+```
+
+9. Get SSH Settings
+``` shell
+vagrant ssh-config
+```
+
+10. Stop Virtual Machine
+``` shell
+vagrant reload
+```
+
+11. Stop Virtual Machine
+``` shell
+vagrant halt
+```
+
+12. Remove the Virtual Machine
 ``` shell
 vagrant ssh
 ```
