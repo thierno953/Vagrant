@@ -1,4 +1,4 @@
-# DevOps - Vagrant Labs
+# DevOps - Vagrant 
 
 
 ## How to use these Labs
@@ -18,7 +18,7 @@ cd get_started
 ``` shell
 vagrant init bento/ubuntu-22.04
 ```
-6. Run the vagrant up command
+6. Run the vagrant up 
 
 ``` shell
 vagrant up
