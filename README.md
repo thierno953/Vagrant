@@ -18,7 +18,12 @@ cd get_started
 ``` shell
 vagrant init bento/ubuntu-22.04
 ```
-6. SSH into the VM
+6. Run the vagrant up command
+
+``` shell
+vagrant up
+```
+7. SSH into the VM
 
 ``` shell
 vagrant ssh
