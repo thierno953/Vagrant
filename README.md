@@ -1,7 +1,5 @@
 [TOC]
 
-
-
 # vagrant
 
 ## Install
@@ -24,8 +22,11 @@ sudo apt install ./vagrant_2.2.9_x86_64.deb
 vagrant --version
 ```
 
+Install Oracle Virtual Box:
 
-
+```
+https://www.virtualbox.org/wiki/Downloads
+```
 ## Initialize a Project Directory
 
 ### Create a directory
